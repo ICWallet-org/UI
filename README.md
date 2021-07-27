@@ -1,1 +1,1 @@
-# UI
+# UI for ICWallet
